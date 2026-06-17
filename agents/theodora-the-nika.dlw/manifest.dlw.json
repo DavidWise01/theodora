@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Nika Stand",
+  "universe": "THD · The Nika Stand (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Nika Stand:THD:e457c4⟧",
+  "carbon": "theodora-the-nika.carbon.tiff (TIFF)",
+  "silicon": "theodora-the-nika.silicon.png (PNG)",
+  "seal_sha256": "ef810e01b3c2dc2f89c03ba226c9aa9f81a17f6bd360d37b1c93351fb1898b0a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

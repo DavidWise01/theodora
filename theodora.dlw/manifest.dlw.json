@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Theodora",
+  "universe": "THD · Theodora (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Theodora:THD:a670b5⟧",
+  "carbon": "theodora.carbon.tiff (TIFF)",
+  "silicon": "theodora.silicon.png (PNG)",
+  "seal_sha256": "d4a3d1ce6a0345df73ba046aba4e4fa2f67f9eb3c3510f845941a1757d4c63da",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
